@@ -23,4 +23,3 @@ vena cava |  |  `-.        ;;;;,;'
                   aorta
 
 ```
-<iframe frameborder="0" src="https://itch.io/embed/4331873" width="552" height="167"><a href="https://vercim.itch.io/perspective">perspective by vercim</a></iframe>
